@@ -6,6 +6,20 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
+## [1.8.1 / 5.63.1] - 2023-03-12
+
+### Added
+- added certificate protection [#2722](https://github.com/sandboxie-plus/Sandboxie/issues/2722)
+
+### Fixed
+- fixed issue with finder search in tracelog
+- fixed issue with NT namespace virtualization [#2701](https://github.com/sandboxie-plus/Sandboxie/issues/2701)
+- fixed issue with run unsandboxed [#2710](https://github.com/sandboxie-plus/Sandboxie/issues/2710)
+- fixed issue with new box wizard [#2729](https://github.com/sandboxie-plus/Sandboxie/issues/2729)
+- fixed issue with break out processes and user restricted sandboxes [#2732](https://github.com/sandboxie-plus/Sandboxie/issues/2732)
+- fixed a couple UI issues [#2733](https://github.com/sandboxie-plus/Sandboxie/issues/2733)
+
+
 
 ## [1.8.0 / 5.63.0] - 2023-02-27
 

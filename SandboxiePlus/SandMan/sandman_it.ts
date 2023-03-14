@@ -761,7 +761,7 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Windows/OptionsAdvanced.cpp" line="1000"/>
+        <location filename="Windows/OptionsAdvanced.cpp" line="1003"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -881,20 +881,20 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="461"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="561"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="472"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="572"/>
         <source>Always copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="462"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="562"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="473"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="573"/>
         <source>Don&apos;t copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="463"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="563"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="474"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="574"/>
         <source>Copy empty</source>
         <translation type="unfinished"></translation>
     </message>
@@ -956,17 +956,17 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <translation>Alcune modifiche non sono state ancora salvate, vuoi chiudere la finestra opzioni?</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="689"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="700"/>
         <source>kilobytes (%1)</source>
         <translation>kilobyte (%1)</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="795"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="806"/>
         <source>Select color</source>
         <translation>Scegli un colore</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="870"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="881"/>
         <source>Select Program</source>
         <translation>Seleziona programma</translation>
     </message>
@@ -976,18 +976,18 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <translation>Inserire un identificativo di servizio</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="870"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="881"/>
         <source>Executables (*.exe *.cmd)</source>
         <translation>File eseguibili (*.exe *.cmd)</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="874"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="889"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="885"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="900"/>
         <source>Please enter a menu title</source>
         <translation>Immetti il nome da assegnare al menu</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="885"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="896"/>
         <source>Please enter a command</source>
         <translation>Immetti un comando</translation>
     </message>
@@ -996,8 +996,8 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <location filename="Windows/OptionsWindow.cpp" line="980"/>
         <location filename="Windows/OptionsAccess.cpp" line="404"/>
         <location filename="Windows/OptionsAccess.cpp" line="636"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="494"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="589"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="505"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="600"/>
         <location filename="Windows/OptionsNetwork.cpp" line="170"/>
         <location filename="Windows/OptionsNetwork.cpp" line="441"/>
         <location filename="Windows/OptionsNetwork.cpp" line="533"/>
@@ -1198,8 +1198,8 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
         <location filename="Windows/OptionsAccess.cpp" line="632"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="535"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="610"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="489"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="585"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="500"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="596"/>
         <location filename="Windows/OptionsNetwork.cpp" line="436"/>
         <location filename="Windows/OptionsNetwork.cpp" line="529"/>
         <location filename="Windows/OptionsNetwork.cpp" line="642"/>
@@ -1234,7 +1234,7 @@ Nota: Il controllo degli aggiornamenti è solitamente indietro rispetto all&apos
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="611"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="586"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="556"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="567"/>
         <location filename="Windows/OptionsGrouping.cpp" line="234"/>
         <location filename="Windows/OptionsGrouping.cpp" line="258"/>
         <location filename="Windows/OptionsNetwork.cpp" line="508"/>
@@ -3032,32 +3032,32 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <translation>Vuota</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="538"/>
+        <location filename="Models/SbieModel.cpp" line="544"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="539"/>
+        <location filename="Models/SbieModel.cpp" line="545"/>
         <source>Process ID</source>
         <translation>ID processo</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="540"/>
+        <location filename="Models/SbieModel.cpp" line="546"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="541"/>
+        <location filename="Models/SbieModel.cpp" line="547"/>
         <source>Title</source>
         <translation>Titolo</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="542"/>
+        <location filename="Models/SbieModel.cpp" line="548"/>
         <source>Info</source>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="546"/>
+        <location filename="Models/SbieModel.cpp" line="552"/>
         <source>Path / Command Line</source>
         <translation>Percorso / Riga di comando</translation>
     </message>
@@ -3216,37 +3216,37 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <translation>Thunderbird</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="108"/>
+        <location filename="SbieProcess.cpp" line="99"/>
         <source>Terminated</source>
         <translation>Terminato</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="114"/>
+        <location filename="SbieProcess.cpp" line="105"/>
         <source>Forced </source>
         <translation>Forzato </translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="112"/>
+        <location filename="SbieProcess.cpp" line="103"/>
         <source>Running</source>
         <translation>In esecuzione</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="118"/>
+        <location filename="SbieProcess.cpp" line="109"/>
         <source> Elevated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="120"/>
+        <location filename="SbieProcess.cpp" line="111"/>
         <source> as System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="123"/>
+        <location filename="SbieProcess.cpp" line="114"/>
         <source> in session %1</source>
         <translation> nella sessione %1</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="129"/>
+        <location filename="SbieProcess.cpp" line="120"/>
         <source> (%1)</source>
         <translation> (%1)</translation>
     </message>
@@ -4417,12 +4417,12 @@ Processes in this box will think they are run with administrative privileges, wi
     <message>
         <location filename="Views/TraceView.cpp" line="214"/>
         <location filename="Views/TraceView.cpp" line="221"/>
-        <location filename="Views/TraceView.cpp" line="229"/>
         <location filename="Views/TraceView.cpp" line="230"/>
-        <location filename="Views/TraceView.cpp" line="239"/>
-        <location filename="Views/TraceView.cpp" line="480"/>
-        <location filename="Views/TraceView.cpp" line="483"/>
-        <location filename="Views/TraceView.cpp" line="580"/>
+        <location filename="Views/TraceView.cpp" line="231"/>
+        <location filename="Views/TraceView.cpp" line="240"/>
+        <location filename="Views/TraceView.cpp" line="481"/>
+        <location filename="Views/TraceView.cpp" line="484"/>
+        <location filename="Views/TraceView.cpp" line="581"/>
         <source>[All]</source>
         <translation>[Tutti]</translation>
     </message>
@@ -4432,67 +4432,67 @@ Processes in this box will think they are run with administrative privileges, wi
         <translation>TID:</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="226"/>
+        <location filename="Views/TraceView.cpp" line="227"/>
         <source>Type:</source>
         <translation>Tipo:</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="237"/>
+        <location filename="Views/TraceView.cpp" line="238"/>
         <source>Status:</source>
         <translation>Stato:</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="240"/>
+        <location filename="Views/TraceView.cpp" line="241"/>
         <source>Open</source>
         <translation>Consentito</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="241"/>
+        <location filename="Views/TraceView.cpp" line="242"/>
         <source>Closed</source>
         <translation>Non consentito</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="242"/>
+        <location filename="Views/TraceView.cpp" line="243"/>
         <source>Trace</source>
         <translation>Tracciamento</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="243"/>
+        <location filename="Views/TraceView.cpp" line="244"/>
         <source>Other</source>
         <translation>Altro</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="251"/>
+        <location filename="Views/TraceView.cpp" line="252"/>
         <source>Show All Boxes</source>
         <translation>Mostra tutte le aree virtuali</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="258"/>
+        <location filename="Views/TraceView.cpp" line="259"/>
         <source>Save to file</source>
         <translation>Salva su file</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="272"/>
+        <location filename="Views/TraceView.cpp" line="273"/>
         <source>Cleanup Trace Log</source>
         <translation>Pulisci log di accesso</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="622"/>
+        <location filename="Views/TraceView.cpp" line="624"/>
         <source>Save trace log to file</source>
         <translation>Salva log su file</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="628"/>
+        <location filename="Views/TraceView.cpp" line="630"/>
         <source>Failed to open log file for writing</source>
         <translation>Impossibile aprire il file di log per la scrittura</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="648"/>
+        <location filename="Views/TraceView.cpp" line="650"/>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="553"/>
+        <location filename="Views/TraceView.cpp" line="554"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -4502,7 +4502,7 @@ Processes in this box will think they are run with administrative privileges, wi
         <translation>Modalità monitor</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="560"/>
+        <location filename="Views/TraceView.cpp" line="561"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -4510,7 +4510,7 @@ Processes in this box will think they are run with administrative privileges, wi
 <context>
     <name>CTraceWindow</name>
     <message>
-        <location filename="Views/TraceView.cpp" line="681"/>
+        <location filename="Views/TraceView.cpp" line="683"/>
         <source>Sandboxie-Plus - Trace Monitor</source>
         <translation>Sandboxie Plus - Monitor accesso risorse</translation>
     </message>

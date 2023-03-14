@@ -656,7 +656,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="611"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="586"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="556"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="567"/>
         <location filename="Windows/OptionsGrouping.cpp" line="234"/>
         <location filename="Windows/OptionsGrouping.cpp" line="258"/>
         <location filename="Windows/OptionsNetwork.cpp" line="508"/>
@@ -676,8 +676,8 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <translation>Dosya için Göz At</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="874"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="889"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="885"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="900"/>
         <source>Please enter a menu title</source>
         <translation>Lütfen bir menü başlığı girin</translation>
     </message>
@@ -742,8 +742,8 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <location filename="Windows/OptionsWindow.cpp" line="980"/>
         <location filename="Windows/OptionsAccess.cpp" line="404"/>
         <location filename="Windows/OptionsAccess.cpp" line="636"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="494"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="589"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="505"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="600"/>
         <location filename="Windows/OptionsNetwork.cpp" line="170"/>
         <location filename="Windows/OptionsNetwork.cpp" line="441"/>
         <location filename="Windows/OptionsNetwork.cpp" line="533"/>
@@ -762,7 +762,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <translation>Yalnızca [#] göstergesini görüntüle</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsAdvanced.cpp" line="1000"/>
+        <location filename="Windows/OptionsAdvanced.cpp" line="1003"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -811,17 +811,17 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <translation>Yalnızca başlık odaktayken göster</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="870"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="881"/>
         <source>Select Program</source>
         <translation>Program Seç</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="885"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="896"/>
         <source>Please enter a command</source>
         <translation>Lütfen bir komut girin</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="689"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="700"/>
         <source>kilobytes (%1)</source>
         <translation>kilobayt (%1)</translation>
     </message>
@@ -846,8 +846,8 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <location filename="Windows/OptionsAccess.cpp" line="632"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="535"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="610"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="489"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="585"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="500"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="596"/>
         <location filename="Windows/OptionsNetwork.cpp" line="436"/>
         <location filename="Windows/OptionsNetwork.cpp" line="529"/>
         <location filename="Windows/OptionsNetwork.cpp" line="642"/>
@@ -882,7 +882,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="745"/>
         <source>Please enter a service identifier</source>
-        <translation>Lütfen bir hizmet tanımlayıcı girin</translation>
+        <translation>Lütfen bir hizmet tanımlayıcısı girin</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="262"/>
@@ -1263,30 +1263,30 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <translation>Belirsiz</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="461"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="561"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="472"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="572"/>
         <source>Always copy</source>
         <translation>Her zaman kopyala</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="462"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="562"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="473"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="573"/>
         <source>Don&apos;t copy</source>
         <translation>Kopyalama</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="463"/>
-        <location filename="Windows/OptionsGeneral.cpp" line="563"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="474"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="574"/>
         <source>Copy empty</source>
         <translation>Boş kopyala</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="795"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="806"/>
         <source>Select color</source>
         <translation>Renk seç</translation>
     </message>
     <message>
-        <location filename="Windows/OptionsGeneral.cpp" line="870"/>
+        <location filename="Windows/OptionsGeneral.cpp" line="881"/>
         <source>Executables (*.exe *.cmd)</source>
         <translation>Çalıştırılabilir dosyalar (*.exe *.cmd)</translation>
     </message>
@@ -1369,7 +1369,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <location filename="Windows/OptionsAdvanced.cpp" line="720"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="724"/>
         <source>Run Command</source>
-        <translation>Komut Çalıştır</translation>
+        <translation>Komutu Çalıştır</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="712"/>
@@ -1379,7 +1379,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="715"/>
         <source>On Init</source>
-        <translation>Başlatmada</translation>
+        <translation>İlk Kullanımda</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="719"/>
@@ -1548,7 +1548,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
     <message>
         <location filename="Windows/PopUpWindow.h" line="255"/>
         <source>Recover &amp;&amp; Explore</source>
-        <translation>Kurtar &amp;&amp; Klasörde Göster</translation>
+        <translation>Kurtar &amp;&amp; Keşfet</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="256"/>
@@ -1593,7 +1593,7 @@ Not: Güncelleme denetimi, yalnızca test edilen güncellemelerin sunulmasını 
         <location filename="Windows/PopUpWindow.cpp" line="253"/>
         <source>Do you want to allow %4 (%5) to copy a %1 large file into sandbox: %2?
 File name: %3</source>
-        <translation>%4&apos;ün (%5) büyük bir %1 dosyasını korumalı alana kopyalamasına izin vermek istiyor musunuz: %2?
+        <translation>%4&apos;nin (%5) %1 büyüklüğündeki bir dosyayı korumalı alana kopyalamasına izin vermek istiyor musunuz: %2?
 Dosya adı: %3</translation>
     </message>
     <message>
@@ -1614,7 +1614,7 @@ Dosyayı yazan: %3</translation>
         <location filename="Windows/PopUpWindow.cpp" line="411"/>
         <source>Migrating a large file %1 into the sandbox %2, %3 left.
 Full path: %4</source>
-        <translation>%1 büyük bir dosya %2 korumalı alanına taşınıyor, %3 kaldı.
+        <translation>%1 büyüklüğündeki bir dosya %2 korumalı alanına taşınıyor, %3 kaldı.
 Tam yol: %4</translation>
     </message>
 </context>
@@ -1755,7 +1755,7 @@ Tam yol: %4</translation>
     <message>
         <location filename="SbiePlusAPI.cpp" line="663"/>
         <source>No INet</source>
-        <translation>INet yok</translation>
+        <translation>INet Yok</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="670"/>
@@ -1790,7 +1790,7 @@ Tam yol: %4</translation>
     <message>
         <location filename="SbiePlusAPI.cpp" line="636"/>
         <source>Disabled</source>
-        <translation>Devre dışı</translation>
+        <translation>Devre Dışı</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="647"/>
@@ -2551,7 +2551,7 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbieFindWnd.cpp" line="134"/>
         <source>Drag the Finder Tool over a window to select it, then release the mouse to check if the window is sandboxed.</source>
-        <translation>Bulucu Aracını, bir pencere seçmek için onun üzerine sürükleyin, ardından pencerenin korumalı alanda olup olmadığını denetlemek için fareyi bırakın.</translation>
+        <translation>Soldaki Bulucu Aracını, farenin sol tuşuyla sürükleyip bir pencerenin üzerine bırakarak, o pencerenin korumalı alanda olup olmadığını bulabilirsiniz.</translation>
     </message>
     <message>
         <location filename="SbieFindWnd.cpp" line="204"/>
@@ -2737,7 +2737,7 @@ Hayır şunları seçer: %2</translation>
         <location filename="SandMan.cpp" line="574"/>
         <location filename="SandMan.cpp" line="701"/>
         <source>Reset all GUI options</source>
-        <translation>Tüm GKA Seçeneklerini Sıfırla</translation>
+        <translation>Tüm Arayüz Seçeneklerini Sıfırla</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="579"/>
@@ -3036,7 +3036,7 @@ Hayır şunları seçer: %2</translation>
 <context>
     <name>CSbieModel</name>
     <message>
-        <location filename="Models/SbieModel.cpp" line="538"/>
+        <location filename="Models/SbieModel.cpp" line="544"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
@@ -3051,27 +3051,27 @@ Hayır şunları seçer: %2</translation>
         <translation>Boş</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="540"/>
+        <location filename="Models/SbieModel.cpp" line="546"/>
         <source>Status</source>
         <translation>Durum</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="539"/>
+        <location filename="Models/SbieModel.cpp" line="545"/>
         <source>Process ID</source>
         <translation>İşlem Kimliği</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="546"/>
+        <location filename="Models/SbieModel.cpp" line="552"/>
         <source>Path / Command Line</source>
         <translation>Yol / Komut Satırı</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="541"/>
+        <location filename="Models/SbieModel.cpp" line="547"/>
         <source>Title</source>
         <translation>Başlık</translation>
     </message>
     <message>
-        <location filename="Models/SbieModel.cpp" line="542"/>
+        <location filename="Models/SbieModel.cpp" line="548"/>
         <source>Info</source>
         <translation>Bilgi</translation>
     </message>
@@ -3079,12 +3079,12 @@ Hayır şunları seçer: %2</translation>
 <context>
     <name>CSbieProcess</name>
     <message>
-        <location filename="SbieProcess.cpp" line="108"/>
+        <location filename="SbieProcess.cpp" line="99"/>
         <source>Terminated</source>
         <translation>Sonlandırılmış</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="112"/>
+        <location filename="SbieProcess.cpp" line="103"/>
         <source>Running</source>
         <translation>Çalışıyor</translation>
     </message>
@@ -3212,17 +3212,17 @@ Hayır şunları seçer: %2</translation>
         <translation>Genel Posta İstemcisi</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="118"/>
+        <location filename="SbieProcess.cpp" line="109"/>
         <source> Elevated</source>
         <translation> Yetkilendirilmiş</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="120"/>
+        <location filename="SbieProcess.cpp" line="111"/>
         <source> as System</source>
         <translation> Sistem olarak</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="129"/>
+        <location filename="SbieProcess.cpp" line="120"/>
         <source> (%1)</source>
         <translation> (%1)</translation>
     </message>
@@ -3252,7 +3252,7 @@ Hayır şunları seçer: %2</translation>
         <translation>Sbie WuauServ</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="123"/>
+        <location filename="SbieProcess.cpp" line="114"/>
         <source> in session %1</source>
         <translation> %1 oturumunda</translation>
     </message>
@@ -3262,7 +3262,7 @@ Hayır şunları seçer: %2</translation>
         <translation>Thunderbird</translation>
     </message>
     <message>
-        <location filename="SbieProcess.cpp" line="114"/>
+        <location filename="SbieProcess.cpp" line="105"/>
         <source>Forced </source>
         <translation>Zorunlu </translation>
     </message>
@@ -3448,7 +3448,7 @@ Hayır şunları seçer: %2</translation>
         <location filename="Views/SbieView.cpp" line="193"/>
         <location filename="Views/SbieView.cpp" line="307"/>
         <source>Explore Content</source>
-        <translation>İçeriği Klasörde Göster</translation>
+        <translation>İçeriği Keşfet</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="191"/>
@@ -4436,12 +4436,12 @@ Bu alandaki işlemler, aslında yönetici ayrıcalıklarına sahip olmadan, yön
     <message>
         <location filename="Views/TraceView.cpp" line="214"/>
         <location filename="Views/TraceView.cpp" line="221"/>
-        <location filename="Views/TraceView.cpp" line="229"/>
         <location filename="Views/TraceView.cpp" line="230"/>
-        <location filename="Views/TraceView.cpp" line="239"/>
-        <location filename="Views/TraceView.cpp" line="480"/>
-        <location filename="Views/TraceView.cpp" line="483"/>
-        <location filename="Views/TraceView.cpp" line="580"/>
+        <location filename="Views/TraceView.cpp" line="231"/>
+        <location filename="Views/TraceView.cpp" line="240"/>
+        <location filename="Views/TraceView.cpp" line="481"/>
+        <location filename="Views/TraceView.cpp" line="484"/>
+        <location filename="Views/TraceView.cpp" line="581"/>
         <source>[All]</source>
         <translation>[Tümü]</translation>
     </message>
@@ -4451,17 +4451,17 @@ Bu alandaki işlemler, aslında yönetici ayrıcalıklarına sahip olmadan, yön
         <translation>TID:</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="553"/>
+        <location filename="Views/TraceView.cpp" line="554"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="560"/>
+        <location filename="Views/TraceView.cpp" line="561"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="226"/>
+        <location filename="Views/TraceView.cpp" line="227"/>
         <source>Type:</source>
         <translation>Tür:</translation>
     </message>
@@ -4471,57 +4471,57 @@ Bu alandaki işlemler, aslında yönetici ayrıcalıklarına sahip olmadan, yön
         <translation>NT Nesne Ağacını Göster</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="237"/>
+        <location filename="Views/TraceView.cpp" line="238"/>
         <source>Status:</source>
         <translation>Durum:</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="240"/>
+        <location filename="Views/TraceView.cpp" line="241"/>
         <source>Open</source>
         <translation>Açık</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="241"/>
+        <location filename="Views/TraceView.cpp" line="242"/>
         <source>Closed</source>
         <translation>Kapalı</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="242"/>
+        <location filename="Views/TraceView.cpp" line="243"/>
         <source>Trace</source>
         <translation>İzleme</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="243"/>
+        <location filename="Views/TraceView.cpp" line="244"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="251"/>
+        <location filename="Views/TraceView.cpp" line="252"/>
         <source>Show All Boxes</source>
         <translation>Tüm Alanları Göster</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="258"/>
+        <location filename="Views/TraceView.cpp" line="259"/>
         <source>Save to file</source>
         <translation>Dosyaya kaydet</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="272"/>
+        <location filename="Views/TraceView.cpp" line="273"/>
         <source>Cleanup Trace Log</source>
         <translation>İzleme Günlüğünü Temizle</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="622"/>
+        <location filename="Views/TraceView.cpp" line="624"/>
         <source>Save trace log to file</source>
         <translation>İzleme günlüğünü dosyaya kaydet</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="628"/>
+        <location filename="Views/TraceView.cpp" line="630"/>
         <source>Failed to open log file for writing</source>
         <translation>Günlük dosyası yazmak için açılamadı</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="648"/>
+        <location filename="Views/TraceView.cpp" line="650"/>
         <source>Unknown</source>
         <translation>Bilinmeyen</translation>
     </message>
@@ -4534,7 +4534,7 @@ Bu alandaki işlemler, aslında yönetici ayrıcalıklarına sahip olmadan, yön
 <context>
     <name>CTraceWindow</name>
     <message>
-        <location filename="Views/TraceView.cpp" line="681"/>
+        <location filename="Views/TraceView.cpp" line="683"/>
         <source>Sandboxie-Plus - Trace Monitor</source>
         <translation>Sandboxie-Plus - İzleme Monitörü</translation>
     </message>
@@ -6109,7 +6109,7 @@ The process match level has a higher priority than the specificity and describes
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3529"/>
         <source>Start Service</source>
-        <translation>Hizmeti Başlat</translation>
+        <translation>Hizmet Başlat</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3504"/>
@@ -6377,7 +6377,7 @@ The process match level has a higher priority than the specificity and describes
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1235"/>
         <source>Config protection</source>
-        <translation>Yapılandırma koruması</translation>
+        <translation>Yapılandırma Koruması</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1326"/>
@@ -6953,7 +6953,7 @@ The process match level has a higher priority than the specificity and describes
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="86"/>
         <source>When deleting a snapshot content, it will be returned to this snapshot instead of none.</source>
-        <translation>Bir anlık görüntü içeriği silinirken, hiçbiri yerine bu anlık görüntüye döndürülecektir.</translation>
+        <translation>Anlık görüntüsü alınmış bir alanın içeriği silinirken, alanın içeriği varsayılan anlık görüntüye döndürülecektir.</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="89"/>
